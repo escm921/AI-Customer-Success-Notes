@@ -1,6 +1,4 @@
 # AI-Customer-Success-Notes
-A collection of thoughts, prompts, and real-world examples of how AI can transform customer experience, enablement, and creative workflows.
-
 
 Hi, I'm Marianne!  
 I work with creative and marketing teams to help them embed AI tools in their workflows and drive adoption at scale.  
